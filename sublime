@@ -1,9 +1,6 @@
-Command + D 选中一个单词
-Command + L 选中一行
+- Command + D 选中一个单词
+- Command + L 选中一行
 
+- Ctrl+D ->  Ctrl+V 批量替换
 
-
-批量替换：
-Ctrl+D ->  Ctrl+V
-
-Ctrl+H
+- Ctrl+H
