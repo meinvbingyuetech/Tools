@@ -9,6 +9,6 @@ ctrl + shift + /   /*多行注释*/
 
 - CTRL+ALT ←/→ 返回上次编辑的位置
 - Ctrl+Alt+L 格式化代码
-
+- Ctrl+Y 多行删除
 ----
 ### [设置变量为小写+下划线，e.g：$user_name](http://pan.baidu.com/s/1dFxrfdZ)
