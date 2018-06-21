@@ -9,18 +9,28 @@
 
 ----
 
-```
-ctrl + /    //单行注释 
-ctrl + shift + /   /*多行注释*/
- 
- 
- 
-选中多行 按 "ctrl + /" 可以 多行 "//" 注释
-```
+- ctrl + /          单行或多行 "//" 注释
+- ctrl + shift + /   多行注释
 
-- CTRL+ALT ←/→ 返回上次编辑的位置
-- Ctrl+Alt+L 格式化代码
-- Ctrl+Y 多行删除
+
+- ctrl+F12		         呼出页面结构体
+- F5				             复制并新建一个文件
+
+- ctrl+ALT ←/→       返回上次编辑的位置
+- ctrl+Alt+L         格式化代码
+- ctrl+Y             多行删除
+
+- ctrl+D		          	复制当前行到下一行
+- ctrl+X			          剪切行
+
+- ctrl+Z			          后退
+- ctrl+shift+Z	      前进
+
+- ctrl+shift+↑	      将当前行移动到上一行
+- ctrl+shift+↓	      将当前行移动到下一行
+
+- ctrl+W			          选中（可连续按）
+
 ----
 ### [设置变量为小写+下划线，e.g：$user_name](http://pan.baidu.com/s/1dFxrfdZ)
 
