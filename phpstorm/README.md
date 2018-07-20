@@ -34,4 +34,11 @@
 ----
 ### [设置变量为小写+下划线，e.g：$user_name](http://pan.baidu.com/s/1dFxrfdZ)
 
+----
 
+```
+If Else 转换为 Switch
+
+Alt + enter
+
+```
