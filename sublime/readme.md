@@ -1,4 +1,4 @@
-- *Ctrl+Shift+P* 打开Package Control
+- **Ctrl+Shift+P** 打开Package Control
 - Ctrl+`       打开控制台，可以查看系统输出
 - Ctrl+P       查找和打开文件
 - Ctrl+R       查找方法（函数）
