@@ -12,7 +12,7 @@
 **Ctrl+D**       |选中一个单词
 **Ctrl+Shift+D** |复制到下一行
 **Ctrl+L**       |选中一行
-**ctrl+k ctrl+b|隐藏或展开site bar
+**ctrl+k ctrl+b**|隐藏或展开site bar
 **ctrl+0** |切换到site bar
 **ctrl+1**|切换到编辑器
  
