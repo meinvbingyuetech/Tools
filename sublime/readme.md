@@ -15,7 +15,7 @@
 **ctrl+k ctrl+b**|隐藏或展开site bar
 **ctrl+0** |切换到site bar
 **ctrl+1**|切换到编辑器
- 
+**Ctrl+O**      | 打开所在文件的物理目录
 ----
 
 - 多行快捷编辑
