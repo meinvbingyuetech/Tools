@@ -48,3 +48,8 @@ If Else 转换为 Switch
 Alt + enter
 
 ```
+
+### 配置 Deployment
+- 先确保plugins里面没有Remote Hosts Access
+- 依次找到 Tools—>Deployment
+- 相关配置看网盘
