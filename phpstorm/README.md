@@ -9,8 +9,11 @@
 
 ### 破解
 [访问这里>>](http://idea.javatiku.cn/)
+
+[激活工具插件>>](https://www.lmcc.top/articles/207.html)
 ```
 (为避免phpstorm联网时注册失效，请将“0.0.0.0 account.jetbrains.com”添加到hosts文件中。
+
 ```
 
 ----
